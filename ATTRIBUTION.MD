@@ -1,0 +1,1 @@
+the original mod, and all its assets, were created by [fewwan](https://github.com/fewwan). This version of the mod has been modified and updated by cputnam-a11y.

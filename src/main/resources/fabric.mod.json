@@ -17,6 +17,9 @@
 	"entrypoints": {
 		"main": [
 			"fewwan.bakedmudbricks.BakedMudBricks"
+		],
+		"fabric-datagen": [
+			"fewwan.bakedmudbricks.datagen.BakedMudBricksDataGenerator"
 		]
 	},
 	"mixins": [

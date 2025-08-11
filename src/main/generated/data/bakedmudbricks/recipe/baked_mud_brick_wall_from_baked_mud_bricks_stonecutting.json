@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "bakedmudbricks:baked_mud_bricks",
+  "result": {
+    "count": 1,
+    "id": "bakedmudbricks:baked_mud_brick_wall"
+  }
+}

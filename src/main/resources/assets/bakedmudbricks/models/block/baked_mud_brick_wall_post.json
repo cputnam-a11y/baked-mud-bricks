@@ -1,6 +1,0 @@
-{
-    "parent": "minecraft:block/template_wall_post",
-    "textures": {
-        "wall": "bakedmudbricks:block/baked_mud_bricks"
-    }
-}

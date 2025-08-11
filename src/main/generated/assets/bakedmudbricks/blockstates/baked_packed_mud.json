@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "bakedmudbricks:block/baked_packed_mud"
+    }
+  }
+}
