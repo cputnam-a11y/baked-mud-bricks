@@ -84,7 +84,7 @@ public class BakedMudBricks implements ModInitializer {
         var block = factory.apply(settings.get().registryKey(blockKey));
         Registry.register(Registries.BLOCK, blockKey, block);
         var itemKey = RegistryKey.of(RegistryKeys.ITEM, Identifier.of(MOD_ID, name));
-        Registry.register(Registries.ITEM, itemKey, new BlockItem(block, new Item.Settings().registryKey(itemKey)));
+        Registry.register(Registries.ITEM, itemKey, new BlockItem(block, new Item.Settings().registryKey(itemKey).useBlockPrefixedTranslationKey()));
         return block;
     }
 }
